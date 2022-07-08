@@ -3,9 +3,9 @@
     "path": "~/R_Code/testcode.R",
     "project_path": "testcode.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "4146161330",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1657222279477.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657224144,
+    "lastKnownWriteTime": 1657302614,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657302469035,
+    "last_content_update": 1657302614772,
     "read_only": false,
     "read_only_alternatives": []
 }
