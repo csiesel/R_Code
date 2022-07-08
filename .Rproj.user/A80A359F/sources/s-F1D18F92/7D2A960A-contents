@@ -6,6 +6,6 @@ ggplot(iris, aes(x=Sepal.Width, y=Sepal.Length)) +
   geom_point()
 
 
+dir.create("Plots")
 
-
-ggsave(filename="testplot.png")
+ggsave(filename="Plots/testplot.png")
